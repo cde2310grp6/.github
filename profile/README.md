@@ -1,5 +1,5 @@
 # CDE2310 Grp 6 2425_S2
-Welcome!
+CDe2310 is a module under National University of Singapore (NUS) Innovation and Design Program (IDP). Also known as Fundamentals of Systems Design, it is a module focused on implementing the key methodologies of a systems engineering mindset, with an overall project goal of building a robot to complete tasks autonomously. This repository is proof of our team's hard work throughout the semester, and contains everything from our code bases to hardware and electrical schematics
 
 <!--
 
