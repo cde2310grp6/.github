@@ -61,5 +61,6 @@ The following is a simplified rqt_graph of the crucial nodes used in our project
  - Special thanks to our CDE2310 Profs for organising this challenging yet fun module.
  - [SeanReg's Frontier Exploration algorithm](https://github.com/SeanReg/nav2_wavefront_frontier_exploration)
  - [Josh-Hrisko's amg8833 driver](https://github.com/makerportal/AMG8833_IR_cam)
+ - Turtlebot3 Documentation 
  - [AniArka's Frontier Exploration algorithm (this should get a prize in code readability)](https://github.com/AniArka/Autonomous-Explorer-and-Mapper-ros2-nav2)
  - Don Pollo
