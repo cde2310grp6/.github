@@ -59,6 +59,11 @@ The following is a simplified rqt_graph of the crucial nodes used in our project
 
 ## Acknowledgement
  - Special thanks to our CDE2310 Profs for organising this challenging yet fun module.
+   - Mr Chew Wanlong, Nicholas
+   - Mr Ee Wei Han, Eugene
+   - Mr Royston Shieh Teng Wei
+   - Mr Soh Eng Keng
+ - Teaching Assistants of CDE2310
  - [SeanReg's Frontier Exploration algorithm](https://github.com/SeanReg/nav2_wavefront_frontier_exploration)
  - [Josh-Hrisko's amg8833 driver](https://github.com/makerportal/AMG8833_IR_cam)
  - Turtlebot3 Documentation 
