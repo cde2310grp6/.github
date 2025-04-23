@@ -56,6 +56,8 @@ The following is a simplified rqt_graph of the crucial nodes used in our project
 - [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
 - [Nav2](https://docs.ros.org/en/humble/index.html)
 - [Gazebo Classic 11.14.0](https://classic.gazebosim.org)
+- Tmux
+- Tmuxinator
 
 ## Acknowledgement
  - Special thanks to our CDE2310 Profs for organising this challenging yet fun module.
