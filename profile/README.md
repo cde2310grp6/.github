@@ -2,7 +2,7 @@
 <p align="justify"> CDE2310 is a module under National University of Singapore (NUS) Innovation and Design Program (IDP). Also known as Fundamentals of Systems Design, it is a module focused on implementing the key methodologies of a systems engineering mindset, with an overall project goal of building a robot to complete tasks autonomously. This repository is proof of our team's hard work throughout the semester, and contains everything from our code bases to hardware and electrical schematics. </p>
 
 ## Setup
-1. Follow the [ROBOTIS Turtlebo3 Quick Start Guide](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/) to setup both your [REMOTE PC] and [RPi]
+1. Follow the [ROBOTIS Turtlebot3 Quick Start Guide](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/) to setup both your [REMOTE PC] and [RPi]
 
 2. Afterwards, ```git clone``` the repositories listed below into your ROS2 workspace
 ### File Structure
@@ -69,3 +69,7 @@ The following is a simplified rqt_graph of the crucial nodes used in our project
  - Turtlebot3 Documentation 
  - [AniArka's Frontier Exploration algorithm (this should get a prize in code readability)](https://github.com/AniArka/Autonomous-Explorer-and-Mapper-ros2-nav2)
  - Don Pollo
+
+![image](https://github.com/user-attachments/assets/9d3644fa-9304-4af6-8837-bdd32e732529)  
+Thanks for reading!
+
