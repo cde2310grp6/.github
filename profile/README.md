@@ -72,6 +72,9 @@ The following is a simplified rqt_graph of the crucial nodes used in our project
  - [AniArka's Frontier Exploration algorithm (this should get a prize in code readability)](https://github.com/AniArka/Autonomous-Explorer-and-Mapper-ros2-nav2)
  - Don Pollo
 
+##
+Check out a [screen recording of our final run!](https://youtu.be/ttS_-xZGWaA)
+
 ![image](https://github.com/user-attachments/assets/9d3644fa-9304-4af6-8837-bdd32e732529)  
 Thanks for reading!
 
